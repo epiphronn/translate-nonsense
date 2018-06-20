@@ -16,7 +16,6 @@ else:
 
 
 USAGE = ("""
-Name: nonsense_maker
 Usage: (Windows terminal)
 $ py make_nonsense.py text num_times init_lang
 
