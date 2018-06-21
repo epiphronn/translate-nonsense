@@ -15,3 +15,9 @@ Example:
 $ py make_nonsense.py "Hello, how are you today?" 7 en
 > Good where are you today i'm going well
 ```
+
+### Other:
+
+To use, you obviously have to be connected to the internet (how else will you reach
+  Google Translate). I have also included the examples.sh bash script if you want
+  to see an example of this script.

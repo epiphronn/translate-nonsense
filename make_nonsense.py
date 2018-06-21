@@ -3,7 +3,6 @@
 import sys
 import re
 import random
-import time
 
 if (sys.version_info[0] < 3):
     import urllib2
